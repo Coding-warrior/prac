@@ -1,1 +1,2 @@
 content in file1
+additional content
